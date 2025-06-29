@@ -169,7 +169,3 @@ flutter_expense_tracker/
 - **Phone**: Vertical layout with chart above the expense list
 - **Tablet**: Horizontal layout with chart and list side-by-side
 - **Theme**: Automatically adapts to your device's light/dark theme preference
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
