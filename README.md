@@ -1,4 +1,4 @@
-# Flutter Expense Tracker
+# Expense Tracker
 
 A clean, intuitive expense tracking application built with Flutter that helps users manage their personal finances by tracking daily expenses and visualizing spending patterns through interactive charts and categorized transactions.
 
@@ -17,7 +17,7 @@ A clean, intuitive expense tracking application built with Flutter that helps us
 
 ## Overview
 
-The Flutter Expense Tracker is a cross-platform mobile application designed to simplify personal finance management. Built with Flutter's Material Design 3, it offers a responsive UI that adapts to different screen sizes and supports both light and dark themes. The app provides an intuitive interface for tracking expenses with visual charts and categorized spending analysis.
+The Expense Tracker is a cross-platform mobile application designed to simplify personal finance management. Built with Flutter's Material Design 3, it offers a responsive UI that adapts to different screen sizes and supports both light and dark themes. The app provides an intuitive interface for tracking expenses with visual charts and categorized spending analysis.
 
 ## Features
 
@@ -82,7 +82,7 @@ lib/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AliAhmed015/Expense-Tracker.git
-   cd flutter-expense-tracker
+   cd expense-tracker
    ```
 
 2. **Install dependencies**
