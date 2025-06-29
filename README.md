@@ -173,4 +173,3 @@ flutter_expense_tracker/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
->>>>>>> 679c6e27e1fccead2f7676e6ac9d5810cdc739af
