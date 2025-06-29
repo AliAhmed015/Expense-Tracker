@@ -82,7 +82,7 @@ lib/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AliAhmed015/Expense-Tracker.git
-   cd expense-tracker
+   cd Expense-Tracker
    ```
 
 2. **Install dependencies**
