@@ -81,7 +81,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flutter-expense-tracker.git
+   git clone https://github.com/AliAhmed015/Expense-Tracker.git
    cd flutter-expense-tracker
    ```
 
